@@ -1,5 +1,5 @@
 pandas 
-mlflow
+mlflow == 1.30.0
 notebook
 numpy
 scikit-learn
@@ -12,3 +12,4 @@ joblib
 types-PyYAML
 Flask
 Flask-Cors
+setuptools==65.5.1  # added fir library suport for MLFlow
