@@ -10,7 +10,7 @@ import joblib
 import os
 os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/ajeetsinghcet05/EndtoEndDataScienceProject.mlflow"
 os.environ["MLFLOW_TRACKING_USERNAME"]="ajeetsinghcet05"
-os.environ["MLFLOW_TRACKING_PASSWORD"]="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"   # replace your key here
+os.environ["MLFLOW_TRACKING_PASSWORD"]="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"   # replace your key here
 
 
 
